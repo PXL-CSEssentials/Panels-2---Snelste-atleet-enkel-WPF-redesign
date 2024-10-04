@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panels-2---Snelste-atleet-enkel-WPF-redesign", "Panels-2---Snelste-atleet-enkel-WPF-redesign\Panels-2---Snelste-atleet-enkel-WPF-redesign.csproj", "{C8AFC934-4F02-4518-94EC-4CF3A82C076C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8AFC934-4F02-4518-94EC-4CF3A82C076C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AFC934-4F02-4518-94EC-4CF3A82C076C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AFC934-4F02-4518-94EC-4CF3A82C076C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AFC934-4F02-4518-94EC-4CF3A82C076C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5DA1B3F-0F79-4BF9-8351-202FEFA60915}
+	EndGlobalSection
+EndGlobal
